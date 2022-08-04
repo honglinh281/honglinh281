@@ -6,7 +6,7 @@ I'm HongLinh😄 <br>
 I was born 2002🕵️ <br>
 I want to be a FrontEnd Dev💻
 
-<div align="center" font-size =1.5em> 💻Tech Stack </div>
+<div style={font-size:1.5em} align="center"> 💻Tech Stack </div>
 <br>
 <br>
 <!-- https://simpleicons.org/ -->
