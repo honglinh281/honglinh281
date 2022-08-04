@@ -1,12 +1,14 @@
  <div align="center">💫About Me </div>
-
+ <br>
+ <br>
 Hello,guy!!!✌️ <br>
 I'm HongLinh😄 <br>
 I was born 2002🕵️ <br>
 I want to be a FrontEnd Dev💻
 
-<div align="center" front-size =25> 💻Tech Stack </div>
-
+<div align="center" front-size =45> 💻Tech Stack </div>
+<br>
+<br>
 <!-- https://simpleicons.org/ -->
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" height="25" /></span>
@@ -35,7 +37,8 @@ I want to be a FrontEnd Dev💻
 &nbsp;
 
 <div align="center"> 📊GitHub Stats </div>
-
+ <br>
+ <br>
 ![](https://github-readme-stats.vercel.app/api?username=honglinh281&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=honglinh281&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=honglinh281&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -53,7 +56,7 @@ I want to be a FrontEnd Dev💻
 [![](https://visitcount.itsvg.in/api?id=honglinh281&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <br>
-
+<br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
