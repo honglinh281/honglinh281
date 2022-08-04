@@ -1,13 +1,11 @@
- <div align="center" font-size=1.5em>💫About Me </div>
- <br>
- <br>
+# 💫About Me :
+
 Hello,guy!!!✌️ <br>
 I'm HongLinh😄 <br>
 I was born 2002🕵️ <br>
 I want to be a FrontEnd Dev💻
-
-<div style={font-size:1.5em} align="center"> 💻Tech Stack </div>
 <br>
+# 💻Tech Stack
 <br>
 <!-- https://simpleicons.org/ -->
 
@@ -36,17 +34,19 @@ I want to be a FrontEnd Dev💻
 <span><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva logo" title="Canva" height="25" /></span>
 &nbsp;
 
-<div align="center"> 📊GitHub Stats </div>
+# 📊GitHub Stats :
+<br>
+
 ![](https://github-readme-stats.vercel.app/api?username=honglinh281&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=honglinh281&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=honglinh281&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="center" font-size:1.5em> 🏆GitHub Trophies </div>
-
+## 🏆GitHub Trophies
+<br>
 ![](https://github-trophies.vercel.app/?username=honglinh281&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center" font-size:1.5em> ✍️Random Dev Quote </div>
-
+### ✍️Random Dev Quote
+<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
@@ -54,7 +54,7 @@ I want to be a FrontEnd Dev💻
 [![](https://visitcount.itsvg.in/api?id=honglinh281&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <br>
-<br>
+
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
