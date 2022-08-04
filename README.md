@@ -32,11 +32,11 @@ I want to be a FrontEnd Dev💻
 <span><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva logo" title="Canva" height="25" /></span>
 &nbsp;
 # 📊GitHub Stats :
-<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=honglinh281&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=honglinh281&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=honglinh281&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
+
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=honglinh281&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
