@@ -42,11 +42,11 @@ I want to be a FrontEnd Dev💻
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=honglinh281&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
-<br>
+
 ![](https://github-trophies.vercel.app/?username=honglinh281&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
-<br>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
