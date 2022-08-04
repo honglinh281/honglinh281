@@ -36,7 +36,7 @@ I want to be a FrontEnd Dev💻
 ![](https://github-readme-stats.vercel.app/api?username=honglinh281&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=honglinh281&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=honglinh281&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+</div>
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=honglinh281&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
@@ -45,7 +45,6 @@ I want to be a FrontEnd Dev💻
 
 ---
 [![](https://visitcount.itsvg.in/api?id=honglinh281&icon=2&color=0)](https://visitcount.itsvg.in)
-</div>
 
 <br>
 
