@@ -51,7 +51,6 @@ I want to be a FrontEnd Dev💻
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=honglinh281&icon=2&color=0)](https://visitcount.itsvg.in)
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=honglinh281&label=Profile%20Views&color=12&icon=4&pretty=true" />
 </a>
