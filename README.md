@@ -3,7 +3,6 @@
 Hello,guy!!!✌️ <br>
 I'm HongLinh😄 <br>
 I was born 2002🕵️ <br>
-I want to be a FrontEnd Dev💻
 <br>
 # 💻Tech Stack :
 <br>
