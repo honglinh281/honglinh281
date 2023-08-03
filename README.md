@@ -66,7 +66,7 @@ I was born 2002🕵️ <br>
   <a href="https://t.me/Sm1key28" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="honglinh-telegram" />
   </a>
-  <a href="https://www.linkedin.com/in/vu-hong-linh-606ba9224/" target="blank">
+  <a href="https://www.linkedin.com/in/linh-vu-a96877286/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="honglinh-linkedin" />
   </a>
   <a href="https://www.instagram.com/hoonglinhne/?hl=en" target="blank">
